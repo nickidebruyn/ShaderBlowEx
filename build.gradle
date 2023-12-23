@@ -5,14 +5,14 @@ sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
 group 'org.shaderblowex'
-version '1.0'
+version '1.0.2'
 
 repositories {
     jcenter()
 }
 
 project.ext {
-    jmeVer = '3.2.4-stable'
+    jmeVer = '3.6.1-stable'
 }
 
 dependencies {
